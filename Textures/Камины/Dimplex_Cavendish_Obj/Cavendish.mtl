@@ -1,0 +1,89 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.09.2013 15:46:23
+
+newmtl Gold
+	Ns 68.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8745 0.5294 0.1569
+	Kd 0.8745 0.5294 0.1569
+	Ks 0.5850 0.5850 0.5850
+	Ke 0.0000 0.0000 0.0000
+
+newmtl iron
+	Ns 68.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.5850 0.5850 0.5850
+	Ke 0.0000 0.0000 0.0000
+
+newmtl carbone
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\kamini\Optimist3D\Maps\carbone_1.jpg
+	map_Kd D:\kamini\Optimist3D\Maps\carbone_1.jpg
+	map_bump -bm 0.3000 Map__1208_Normal_Bump.tga
+
+newmtl wood_8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Optimist3D\Maps\wood_8D.jpg
+	map_Kd D:\Optimist3D\Maps\wood_8D.jpg
+	map_bump D:\Optimist3D\Maps\wood_8B.jpg
+	bump D:\Optimist3D\Maps\wood_8B.jpg
+
+newmtl flame2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\kamini\Optimist3D\Maps\flame2.jpg
+	map_Kd D:\kamini\Optimist3D\Maps\flame2.jpg
+	map_Ke D:\kamini\Optimist3D\Maps\flame2.jpg
+	map_d D:\kamini\Optimist3D\Maps\flame2_ops.jpg
+
+newmtl Flame
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\kamini\Optimist3D\Maps\flame.jpg
+	map_Kd D:\kamini\Optimist3D\Maps\flame.jpg
+	map_Ke D:\kamini\Optimist3D\Maps\flame.jpg
+	map_d D:\kamini\Optimist3D\Maps\flame_ops.jpg
